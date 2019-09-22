@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BranchDeleter", "BranchDeleter\BranchDeleter.fsproj", "{E1926755-ED9D-4650-B513-2039119A19C5}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BranchDeleter.Tests", "BranchDeleter.Tests\BranchDeleter.Tests.fsproj", "{C09D95FC-805A-457E-A9C1-3BFE63B513DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1926755-ED9D-4650-B513-2039119A19C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1926755-ED9D-4650-B513-2039119A19C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1926755-ED9D-4650-B513-2039119A19C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1926755-ED9D-4650-B513-2039119A19C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C09D95FC-805A-457E-A9C1-3BFE63B513DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C09D95FC-805A-457E-A9C1-3BFE63B513DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C09D95FC-805A-457E-A9C1-3BFE63B513DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C09D95FC-805A-457E-A9C1-3BFE63B513DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C934A0D-298E-4EB5-AE14-AF4E423B29B0}
+	EndGlobalSection
+EndGlobal

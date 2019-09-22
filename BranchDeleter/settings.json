@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  },
+  "AzureDevops": {
+    "Repository": "https://dev.azure.com/RepositoryUrl",
+    "AccessToken": "accessToken",
+    "Project": "ProjectName"
+  }
+}
